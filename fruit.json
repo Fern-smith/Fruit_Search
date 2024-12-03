@@ -1,0 +1,314 @@
+  [
+    {
+        "name": "Apple", 
+        "image": "/Img/apple.png" 
+    },
+    {
+        "name": "Apricot", 
+        "image": "/Img/apricot.png"
+    },
+    {
+        "name": "Apricot", 
+        "image": "/Img/apricot.png"
+    },
+    {
+        "name": "Avocado", 
+        "image":"/Img/avocado.png"
+    },
+    {
+        "name": "Banana", 
+        "image": "/Img/banana.png" 
+    },
+    {
+      "name": "Blackcurrant", 
+      "image": "/Img/blackcurrant.png" 
+    },
+    {
+        "name": "Blackberry", 
+        "image": "/Img/blackberry.png" 
+    },
+    {
+        "name": "Avocado",
+        "image": "/Img/blueberry.png"
+    },
+    {
+        "name": "Blueberry", 
+        "image": "/Img/blueberry.png"
+    },
+    {
+        "name": "Boysenberry", 
+        "image": "/Img/boysenberry.png"     
+    },
+    {
+        "name": "Currant",
+        "image": "/Img/currant.png"
+    },
+    {
+        "name": "Cherry", 
+        "image": "/Img/Cherry.png" 
+    },
+    {
+        "name": "Coconut", 
+        "image": "/Img/coconut.png"
+    },
+    {
+        "name": "Cranberry", 
+        "image": "/Img/cranberry.png"
+    },
+    {
+        "name": "Custard Apple", 
+        "image": "/Img/custard apple.png"
+    },
+    {
+        "name": "Damson", 
+        "image": "/Img/damson.png"   
+    },
+    {
+        "name": "Date", 
+        "image": "/Img/Date.png" 
+    },
+    {
+        "name": "Dragon fruit", 
+        "image": "/Img/Dragonfruit.png"    
+    },
+    {
+        "name": "Durian", 
+        "image": "/Img/Durian.png" 
+    },
+    {
+        "name": "Elderberry", 
+        "image": "/Img/Elderberry.png"  
+    },
+    {
+        "name": "Feijoa", 
+        "image": "/Img/Feijoa.png"   
+    },
+    {
+        "name": "Fig", 
+        "image": "/Img/Fig.png" 
+    },
+    {
+        "name": "Gooseberry", 
+        "image": "/Img/Gooseberry.png"
+    },
+    {
+        "name": "Gooseberry",
+      "image": "/Img/Gooseberry.png"
+    },
+    {
+        "name": "Grape",
+        "image": "/Img/grape.png"
+    },
+    {
+        "name": "Raisin", 
+        "image": "/Img/raisin.png"
+    },
+    {
+        "name": "Guava", 
+      "image": "/Img/guava.png"    
+    },
+    {
+        "name": "Guava", 
+        "image": "/Img/guava.png"    
+    },
+    {
+        "name": "Honeyberry", 
+        "image": "/Img/Honeyberry.png" 
+    },
+    {
+        "name": "Huckleberry", 
+        "image": "/Img/Huckleberry.png"
+    },
+    {
+        "name": "Jabuticaba", 
+        "image": "/Img/Jabuticaba.png.png"
+    },
+    {
+        "name": "Jackfruit", 
+        "image": "/Img/Jackfruit.png" 
+    },
+    {
+        "name": "Jackfruit",  
+        "image": "/Img/Jackfruit.png"
+    },
+    {
+        "name": "Jambul", 
+        "image": "/Img/Jambul.png"  
+    },
+    {
+        "name": "Juniper Berry", 
+        "image": "/Img/Juniper berry.png" 
+    },
+    {
+        "name": "Kiwi",
+        "image": "/Img/kiwi.png"
+    },
+    {
+        "name": "Kamquat", 
+        "image": "/Img/kamquat.png"  
+    },
+    {
+        "name": "Lemon", 
+        "image": "/Img/Lemon.png"  
+    },
+    {
+        "name": "Lime", 
+        "image": "/Img/lime.png"   
+    },
+    {
+        "name": "Loquat", 
+        "image": "/Img/loquat.png"
+    },
+    {
+        "name": "Lychee", 
+        "image": "Img/Lychee.png"
+    },
+    {
+        "name": "Mango", 
+        "image": "Img/Mango.png"   
+    },
+    {
+        "name": "Mangosteen", 
+        "image": "/Img/Mangosteen.png"  
+    },
+    {
+        "name": "Melon", 
+        "image": "/Img/melon.png"
+    },
+    {
+        "name": "Cantaloupe", 
+        "image": "/Img/cantaloupe.png"   
+    },
+    {
+        "name": "Honeydew", 
+        "image": "/Img/honeydew.png"   
+    },
+    {
+        "name": "Watermelon", 
+        "image": "/Img/watermelon.png"  
+    },
+    {
+        "name": "Mulberry", 
+        "image": "/Img/Mulberry.png"
+    },
+    {
+        "name": "Nectarine", 
+        "image": "/Img/Nectarine.png"  
+    },
+    { 
+        "name": "Mulberry", 
+        "image": "/Img/Mulberry.png" 
+    },
+    { 
+        "name": "Nectarine", 
+        "image": "/Img/Nectarine.png" 
+    },
+    { 
+        "name": "Olive", 
+        "image": "/Img/Olive.png" 
+    },
+    { 
+        "name": "Orange", 
+        "image": "/Img/orange.png" 
+    },
+    { 
+        "name": "Clementine", 
+        "image": "/Img/clementine.png" 
+    },
+    { 
+        "name": "Mandarin", 
+        "image": "/Img/mandarin.png" 
+    },
+    { 
+        "name": "Tangerine", 
+        "image": "/Img/tangerine.png" 
+    },
+    { 
+        "name": "Papaya", 
+        "image": "/Img/papaya.png" 
+    },
+    { 
+        "name": "Passion fruit", 
+        "image": "/Img/passion fruit.png" 
+    },
+    { 
+        "name": "Peach", 
+        "image": "/Img/peach.png" 
+    },
+    { 
+        "name": "Pear", 
+        "image": "/Img/pear.png" 
+    },
+    { 
+        "name": "Persimmon", 
+        "image": "/Img/persimmon.png" 
+    },
+    { 
+        "name": "Plantain", 
+        "image": "/Img/plantain.png" 
+    },
+    { 
+        "name": "Plum", 
+        "image": "/Img/plum.png" 
+    },
+    {
+         "name": "Pineapple", 
+         "image": "/Img/pineapple.png" 
+    },
+    { 
+        "name": "Pomegranate", 
+        "image": "/Img/pomegranate.png" 
+    },
+    { 
+        "name": "Pomelo", 
+        "image": "/Img/pomelo.png" 
+    },
+    {   
+        "name": "Quince", 
+        "image": "/Img/quince.png" 
+    },
+    { 
+        "name": "Raspberry", 
+        "image": "/Img/raspberry.png" 
+    },
+    {  
+        "name": "Salmonberry", 
+        "image": "/Img/salmonberry.png" 
+    },
+    {
+        "name": "Rambutan", 
+        "image": "/Img/rambutan.png" 
+    },
+    { 
+        "name": "Redcurrant", 
+        "image": "/Img/redcurrant.png" 
+    },
+    { 
+        "name": "Salak", 
+        "image": "/Img/salak.png" 
+    },
+    { 
+        "name": "Soursop", 
+        "image": "/Img/soursop.png" 
+    },
+    { 
+        "name": "Starfruit", 
+        "image": "/Img/starfruit.png" 
+    },
+    { 
+        "name": "Strawberry", 
+        "image": "/Img/strawberyy.png" 
+    },
+    {
+        "name": "Tamarillo", 
+        "image": "/Img/Tamarillo.png" 
+    },
+    {
+        "name": "Tamarind", 
+        "image": "/Img/Tamarind.png"
+    },
+    {
+        "name": "Yuzu", 
+        "image": "/Img/yuzu.png" 
+    }   
+  ]
